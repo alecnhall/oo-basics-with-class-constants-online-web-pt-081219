@@ -7,6 +7,7 @@ class Shoe
     brands = @brand
       if !(BRANDS.include?(brands))
         BRANDS << brands
+      end
   end
 
   BRANDS = ["Uggs", "Rainbow"]
