@@ -5,6 +5,7 @@ class Shoe
   def initialize(brand)
     @brand = brand
     brands = @brand
+      if brand
   end
 
   BRANDS = ["Uggs", "Rainbow"]
