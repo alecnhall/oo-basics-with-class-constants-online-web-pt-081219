@@ -15,6 +15,7 @@ class Shoe
   
   def unique_brands
     BRANDS.each do |brand|
+      
       if brand == 
   end 
 end
