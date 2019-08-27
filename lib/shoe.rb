@@ -13,9 +13,5 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  def unique_brands
-    BRANDS.each do |brand|
-      
-      if brand == 
-  end 
+
 end
