@@ -6,7 +6,7 @@ class Shoe
     @brand = brand
   end
 
-  BRANDS = []
+  BRANDS = ["Uggs", "Rainbow"]
 
   def cobble
     self.condition = "new"
